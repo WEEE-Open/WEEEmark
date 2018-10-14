@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  wtmk.py
+#  wtmk_single_file.py
 #  
 #  Copyright 2018 Fabio Mazza <fabio@thinkless>
 #  
